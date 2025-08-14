@@ -6,8 +6,8 @@ I love crafting clean, responsive, and visually appealing websites. My main focu
 
 ### 🛠️ **Tech Stack & Tools**
 - **Languages**: JavaScript (ES6+), TypeScript, HTML5, CSS3, Sass
-- **Frameworks & Libraries**: React, Next.js, Tailwind CSS, Redux, jQuery
-- **UI/UX Design**: Figma, Adobe XD
+- **Frameworks & Libraries**: React, Next.js, Tailwind CSS, Redux
+- **UI/UX Design**: Figma
 - **Version Control**: Git & GitHub
 - **Tools**: Webpack, Babel, npm, Yarn, Vercel, Netlify
 - **Testing**: Jest, React Testing Library, Cypress
