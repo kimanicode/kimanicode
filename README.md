@@ -2,7 +2,7 @@
 
 🌐 **Frontend Developer | Passionate about Creating Stunning Web Experiences**
 
-I love crafting clean, responsive, and visually appealing websites. My main focus is on building user-friendly applications with great attention to detail, ensuring seamless interactions and optimal performance. Currently, I’m working on sharpening my skills in frontend development, exploring modern technologies, and contributing to open-source projects.
+I love crafting clean, responsive, and visually appealing web apps. My main focus is on building user-friendly applications with great attention to detail, ensuring seamless interactions and optimal performance. Currently, I’m working on sharpening my skills in frontend development, exploring modern technologies, and contributing to open-source projects.
 
 ### 🛠️ **Tech Stack & Tools**
 - **Languages**: JavaScript (ES6+), TypeScript, HTML5, CSS3, Sass
