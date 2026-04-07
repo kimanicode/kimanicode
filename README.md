@@ -1,22 +1,26 @@
 # Hi there, I'm Kimani 👋
 
-🌐 **Frontend Developer | Passionate about Creating Stunning Web Experiences**
+🌐 **Full-Stack Developer | Building Scalable & Impactful Web Applicationss**
 
-I love crafting clean, responsive, and visually appealing web apps. My main focus is on building user-friendly applications with great attention to detail, ensuring seamless interactions and optimal performance. Currently, I’m working on sharpening my skills in frontend development, exploring modern technologies, and contributing to open-source projects.
+I’m a full-stack developer passionate about building end-to-end digital experiences from crafting intuitive user interfaces to designing robust backend systems. I enjoy turning ideas into real, scalable products that solve meaningful problems, especially within the African tech ecosystem.
 
+I focus on writing clean, efficient code, building reliable APIs, and delivering seamless user experiences across the entire stack.
 ### 🛠️ **Tech Stack & Tools**
-- **Languages**: JavaScript (ES6+), TypeScript, HTML5, CSS3, Sass
-- **Frameworks & Libraries**: React, Next.js, Tailwind CSS, Redux
-- **UI/UX Design**: Figma
-- **Version Control**: Git & GitHub
-- **Tools**: Webpack, Babel, npm, Yarn, Vercel, Netlify
-- **Testing**: Jest, React Testing Library, Cypress
-- **Other**: REST APIs, Responsive Design, SEO Optimization, Cross-browser Compatibility
+- Languages: JavaScript (ES6+), TypeScript, HTML5, CSS3, Sass 
+- Frontend: React, Next.js, Tailwind CSS, Redux, Bootstrap 
+- Backend: Node.js, Ruby on Rails, REST APIs
+- Database: PostgreSQL
+- UI/UX Design: Figma
+- Version Control: Git & GitHub
+- Tools: Webpack, Babel, npm, Yarn, Vercel, Netlify
+- Testing: Jest, React Testing Library, Cypress
+- Other: API Design, System Design, SEO Optimization, Responsive Design, Cross-browser Compatibility
 
 ### 🚀 **What I'm Currently Working On**
-- 🌱 Improving my knowledge in **TypeScript** and **Next.js**.
-- 🔍 Building accessible and scalable frontend applications.
-- 🤖 Exploring the intersection of **Frontend Development** and **AI/ML** to create intelligent user experiences.
+- 🌱 Deepening my expertise in full-stack architecture and system design.
+- 🔍 Building scalable applications with React, Next.js, and backend APIs
+- 🤖 Exploring AI-augmented development to build smarter, faster products.
+- ⚙️ Improving backend performance, database design, and API efficiency
 - 🎨 Experimenting with new design patterns for better UX/UI.
 
 ### 📈 **GitHub Stats**
